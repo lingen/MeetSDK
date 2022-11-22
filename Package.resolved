@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "giphy-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Giphy/giphy-ios-sdk",
+      "state" : {
+        "revision" : "0d264c5eb94a10cec7c2ff3474f40f2e360c7475",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "libwebp-xcode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/libwebp-Xcode",
+      "state" : {
+        "revision" : "4f52fc9b29600a03de6e05af16df0d694cb44301",
+        "version" : "1.2.4"
+      }
+    },
+    {
+      "identity" : "webrtc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jitsi/webrtc",
+      "state" : {
+        "revision" : "6f4a40c81c84a0754ec66622d5fed68dce5bd4ec",
+        "version" : "106.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
